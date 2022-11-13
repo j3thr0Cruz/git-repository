@@ -1,1 +1,2 @@
-First
+some changes in 1st
+additional line to 1st
